@@ -5,3 +5,7 @@ This is a test to see if I can modify a file and then push it to a git repositor
 # Activity 1 Continued
 
 ![alt text](bitcoin.jpg)
+
+## README Description
+
+### Table of Contents
